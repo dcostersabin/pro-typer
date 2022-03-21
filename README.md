@@ -29,3 +29,12 @@ ___
 ##### DEMO
 
 ![DEMO](https://github.com/dcostersabin/pro-typer/blob/main/assets/video/pro.gif)
+
+___
+
+##### Screenshots 
+![IMAGE](https://github.com/dcostersabin/pro-typer/blob/main/assets/images/ready.png)
+![IMAGE](https://github.com/dcostersabin/pro-typer/blob/main/assets/images/capture1.png)
+![IMAGE](https://github.com/dcostersabin/pro-typer/blob/main/assets/images/capture2.png)
+![IMAGE](https://github.com/dcostersabin/pro-typer/blob/main/assets/images/capture3.png)
+![IMAGE](https://github.com/dcostersabin/pro-typer/blob/main/assets/images/capture4.png)
