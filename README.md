@@ -28,4 +28,4 @@ ___
 
 ##### DEMO
 
-![DEMO](https://github.com/dcostersabin/pro-typer/blob/main/assets/video/pro.mp4)
+[![DEMO](https://github.com/dcostersabin/pro-typer/blob/main/assets/images/capture4.png)](https://github.com/dcostersabin/pro-typer/blob/main/assets/video/pro.mp4)
